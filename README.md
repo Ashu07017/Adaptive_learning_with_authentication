@@ -118,9 +118,7 @@ npm start
 ## Contributors
 | Name | Role |
 |------|------|
-| Priyanshu Kashyap - 23BCG10009 | Full Stack Developer |
-| Siddharth Sonawane - 23BCG10016 | Full Stack Developer |
-
+| Ashok Chaturvedi - 23BAI70380 | Full Stack Developer |
 ---
 
-© 2025 SkillEdge – Adaptive Learning and Quiz Platform by 23BCG10009 and 23BCG10016
+© 2025 SkillEdge – Adaptive Learning and Quiz Platform by 23BAI70380
